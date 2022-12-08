@@ -1,11 +1,11 @@
 
 
-Steps Before runnig the Website
+Steps Before runnig the Website<br>
 
-first download Xampp 
-then start Xampp
-the start the appache server the go to admin
- in the admin write the database as requried  for cart ,reervation ,login as provided in the files 
+first download Xampp <br>
+then start Xampp<br>
+the start the appache server the go to admin<br>
+ in the admin write the database as requried  for cart ,reervation ,login as provided in the files <br>
  
  
  for Reservation and login![Screenshot (4)](https://user-images.githubusercontent.com/95521771/206406991-4b772413-598d-4386-824b-9d0ba5b67ea1.png)
